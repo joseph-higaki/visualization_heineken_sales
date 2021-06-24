@@ -1,5 +1,5 @@
 # Heineken Sales Dashboards 
-This is the final assignment, using Power BI, from the Data Visualization course from the Big Data &amp; Analytics Masters @ [EAE](https://www.eae.es/) class of 2021.
+This is the final assignment using Power BI, from the Data Visualization course from the Big Data &amp; Analytics Masters @ [EAE](https://www.eae.es/) class of 2021.
 The assignment uses mocked-up data as input provided by the professor:
 * *.txt files in comma-separated-values format, that mimic Heineken Sales data from years 2015 and 2016
 ![image](https://user-images.githubusercontent.com/11904085/123307883-4d287200-d523-11eb-9f63-4594f4517122.png)
